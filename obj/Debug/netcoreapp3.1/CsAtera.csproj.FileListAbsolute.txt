@@ -1,0 +1,13 @@
+C:\Users\97252\Documents\CsAtera\bin\Debug\netcoreapp3.1\CsAtera.exe
+C:\Users\97252\Documents\CsAtera\bin\Debug\netcoreapp3.1\CsAtera.deps.json
+C:\Users\97252\Documents\CsAtera\bin\Debug\netcoreapp3.1\CsAtera.runtimeconfig.json
+C:\Users\97252\Documents\CsAtera\bin\Debug\netcoreapp3.1\CsAtera.runtimeconfig.dev.json
+C:\Users\97252\Documents\CsAtera\bin\Debug\netcoreapp3.1\CsAtera.dll
+C:\Users\97252\Documents\CsAtera\bin\Debug\netcoreapp3.1\CsAtera.pdb
+C:\Users\97252\Documents\CsAtera\obj\Debug\netcoreapp3.1\CsAtera.csprojAssemblyReference.cache
+C:\Users\97252\Documents\CsAtera\obj\Debug\netcoreapp3.1\CsAtera.AssemblyInfoInputs.cache
+C:\Users\97252\Documents\CsAtera\obj\Debug\netcoreapp3.1\CsAtera.AssemblyInfo.cs
+C:\Users\97252\Documents\CsAtera\obj\Debug\netcoreapp3.1\CsAtera.csproj.CoreCompileInputs.cache
+C:\Users\97252\Documents\CsAtera\obj\Debug\netcoreapp3.1\CsAtera.dll
+C:\Users\97252\Documents\CsAtera\obj\Debug\netcoreapp3.1\CsAtera.pdb
+C:\Users\97252\Documents\CsAtera\obj\Debug\netcoreapp3.1\CsAtera.genruntimeconfig.cache
